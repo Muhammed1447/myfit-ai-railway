@@ -180,7 +180,7 @@ HTML_TEMPLATE = """
     Developed by Muhammed Ashml Ashraf | Hosted on 
     <a href="https://railway.com" target="_blank" rel="noopener" style="text-decoration:none; color:#6c757d;">
       Railway.com
-    </a> © 2025
+    </a>
   </footer>
 </body>
 </html>
