@@ -48,7 +48,7 @@ HTML_TEMPLATE = """
       <h1 class="mb-4 text-center">MyFit AI</h1>
       <form method="POST" novalidate>
         <div class="mb-3">
-          <label for="weight" class="form-label">Weight (kg)</label>
+          <label for="weight" class="form-label">Weight (kg) Example: 65 </label>
           <input
             type="number"
             step="any"
@@ -61,7 +61,7 @@ HTML_TEMPLATE = """
           />
         </div>
         <div class="mb-3">
-          <label for="height" class="form-label">Height (cm)</label>
+          <label for="height" class="form-label">Height (cm) Example: 170 </label>
           <input
             type="number"
             step="any"
@@ -74,7 +74,7 @@ HTML_TEMPLATE = """
           />
         </div>
         <div class="mb-3">
-          <label for="age" class="form-label">Age (years)</label>
+          <label for="age" class="form-label">Age (years) Example: 40 </label>
           <input
             type="number"
             min="1"
